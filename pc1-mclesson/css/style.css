@@ -43,7 +43,7 @@ section {
 
 .gridContainer {
     display: grid;
-    grid-template-columns: 1.81fr 2.22fr;
+    grid-template-columns: 45% 55%;
     grid-template-rows: max-content;
     gap: 20px;
 }
